@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AKSHATKHARE
--    I am currently pursuing BTech 3rd year in Information Technology
+-    I am currently pursuing BTech 4th year in Information Technology
 - 👀 I’m interested in DATA SCIENCE
 - 🌱 I’m currently learning Machine Learning algorithms used in data science
 - 💞️ I use daily- java,js,sql,python.
